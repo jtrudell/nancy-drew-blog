@@ -15,12 +15,10 @@ class App extends Component {
           This is a blog about Nancy Drew!
         </p>
         <Post
-          date='March 3, 2018'
-          content='hi i just read the Secret of red gate farm. it was amazing. bess got  bit by a snake.
-          Nancy,bess and george got tied up by the black snake colony. if Nancy was alive i would just explode
-          '
-        >
-        </Post>
+          date="March 3, 2018"
+          content="hi i just read the Secret of red gate farm. it was amazing. bess got  bit by a snake.
+          Nancy,bess and george got tied up by the black snake colony. if Nancy was alive i would just explode"
+        />
       </div>
     );
   }
