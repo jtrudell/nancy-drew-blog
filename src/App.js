@@ -16,7 +16,9 @@ class App extends Component {
         </p>
         <Post
           date='March 3, 2018'
-          content='This is a blog post!'
+          content='hi i just read the Secret of red gate farm. it was amazing. bess got  bit by a snake.
+          Nancy,bess and george got tied up by the black snake colony. if Nancy was alive i would just explode
+          '
         >
         </Post>
       </div>
