@@ -19,6 +19,10 @@ class App extends Component {
           content="hi i just read the Secret of red gate farm. it was amazing. bess got  bit by a snake.
           Nancy,bess and george got tied up by the black snake colony. if Nancy was alive i would just explode"
         />
+         <Post
+          date="March 4, 2018"
+          content="hi i'm back and if you like nancy Drew i have some request: bad day for ballet,the Secret of red gate farm,the lost locket."
+        />
       </div>
     );
   }
