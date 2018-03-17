@@ -23,6 +23,11 @@ class App extends Component {
           date="March 4, 2018"
           content="hi i'm back and if you like nancy Drew i have some request: bad day for ballet,the Secret of red gate farm,the lost locket."
         />
+
+         <Post
+          date="March 17, 2018"
+          content="i just read a few pages of the Secret of shadow ranch right now there ging on a plane well nancy wants to. But Bess and George can't because they say their uncle Ted says it's too dangerous so they go to a sandwich shop nearby. And Nancy looks astonished."
+        />
       </div>
     );
   }
